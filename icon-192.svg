@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="40" fill="#0d0d0d"/>
+  <rect x="16" y="16" width="160" height="160" rx="32" fill="#161616"/>
+  <!-- Checkmark circle -->
+  <circle cx="96" cy="85" r="42" fill="none" stroke="#c8f03a" stroke-width="8"/>
+  <polyline points="76,86 90,100 116,72" fill="none" stroke="#c8f03a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- DONE text -->
+  <text x="96" y="148" text-anchor="middle" font-family="'Arial Black', sans-serif" font-weight="900" font-size="20" fill="#c8f03a" letter-spacing="4">DONE.</text>
+</svg>
